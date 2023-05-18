@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+> I am a research engineer at <a href="https://lia.univ-avignon.fr">Avignon University</a>. I completed my Bachelor's degree 
+in computer science with distinction in an innovation and research-devoted <a href="https://reseau-figure.fr/about-cmi/?lang=en">curriculum</a> and earned a two-year entrepreneurship diploma in 2022. Currently, I am participating in a master's apprenticeship program in computer science with specialization in AI, where I am professionally contributing to the development of <a href="https://speechbrain.github.io">SpeechBrain</a>, 
+an all-in-one, open-source, PyTorch-based speech processing toolkit with more than 6,000 stars on GitHub. At SpeechBrain, I lead the efforts of the Automatic Speech Recognition community. In 2019, I started as an autodidact on deep learning and helped frame the largest French AI community.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Speech:** Automatic Speech Recognition
+- **Deep Learning:** Neural Networks Architectures
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** Our paper about Stabilising and Accelerating Light Gated Recurrent Units for Automatic Speech Recogntion has been accepted at ICASSP 2023 and will be presented in an Oral Presentation.
+- **[May. 2023]** I have been accepted at <a href="https://www.eeml.eu"> Eastern European Machine Learning Summer School 2023</a> and will be presenting some of my recent works in a Poster session.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

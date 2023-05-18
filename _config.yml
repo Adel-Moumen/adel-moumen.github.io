@@ -1,36 +1,30 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Adel Moumen
+position: MSc Computer Science Student <br> Research Engineer <br> SpeechBrain Core developper
+affiliation: Laboratoire Informatique Avignon
+email: adel.moumen@univ-avignon.fr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Adel Moumen academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+cv_link: https://drive.google.com/file/d/1IBU7WrCPMu7bdpp30DawqE9ozR0fOmPa/view?usp=sharing
+github_link: https://github.com/Adel-Moumen
+linkedin: https://www.linkedin.com/in/adel-moumen/
+twitter: https://twitter.com/adelmoumen_
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/adel_moumen_2023.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+enable_footnote: False
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
