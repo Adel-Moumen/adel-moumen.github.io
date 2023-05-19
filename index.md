@@ -8,7 +8,7 @@ layout: homepage
 in computer science with distinction in an innovation and research-devoted <a href="https://reseau-figure.fr/about-cmi/?lang=en">curriculum</a> and earned a two-year entrepreneurship diploma in 2022. Currently, I am participating in a master's apprenticeship program in computer science with specialization in AI, where I am professionally contributing to the development of <a href="https://speechbrain.github.io">SpeechBrain</a>, 
 an all-in-one, open-source, PyTorch-based speech processing toolkit with more than 6,000 stars on GitHub. At SpeechBrain, I lead the efforts of the Automatic Speech Recognition community. In 2019, I started as an autodidact on deep learning and helped frame the largest French AI community.
 
-Note: I will be looking for a PhD position for September 2024.
+Note: I will be looking for a PhD position in September 2024. Feel free to reach out if you have any positions in mind or if you'd like to chat about SpeechBrain!
 
 ## Research Interests
 
