@@ -8,12 +8,17 @@ I am a 21 years old research engineer at <a href="https://lia.univ-avignon.fr">A
 in computer science with distinction in an innovation and research-devoted <a href="https://reseau-figure.fr/about-cmi/?lang=en">curriculum</a> and earned a two-year entrepreneurship diploma in 2022. Currently, I am participating in a master's apprenticeship program in computer science with specialization in AI, where I am professionally contributing to the development of <a href="https://speechbrain.github.io">SpeechBrain</a>, 
 an all-in-one, open-source, PyTorch-based speech processing toolkit with more than 6,000 stars on GitHub. At SpeechBrain, I lead the efforts of the Automatic Speech Recognition community. In 2019, I started as an autodidact on deep learning and helped frame the largest French AI community.
 
-Note: I will be looking for a PhD position starting in September 2024. Feel free to reach out if you have any positions in mind or if you'd like to chat about SpeechBrain!
+Note: I will be looking for a <b>PhD position</b> starting in September 2024. Feel free to reach out if you have any positions in mind or if you'd like to chat about SpeechBrain!
 
 ## Research Interests
 
-- **Speech:** Automatic Speech Recognition
-- **Deep Learning:** Neural Networks Architectures
+My current research interests revolve around improving Deep Neural Networks (DNNs). Specifically, I focus on exploring innovative methods to enhance their efficiency by rethinking their core architecture. I am particularly interested in addressing concrete challenges, such as the gradient exploding problem or deep catastrophic forgetting in continual learning. My research primarily applies these concepts to the field of automatic speech recognition.
+
+## SpeechBrain
+
+I serve as a core maintainer of the SpeechBrain toolkit, responsible for its core development and overall management. My role entails actively supporting the toolkit by engaging in discussions, addressing issues, and reviewing pull requests. Additionally, I focus on expanding the capabilities of the toolkit by introducing new features for automatic speech recognition.
+
+One of my notable contributions was the integration of the Encoder-Decoder Whisper model, which was released in December 2022. Currently, my ongoing work involves incorporating advanced decoding methods into SpeechBrain speech recognition systems. This includes the integration of CTC frame-synchronous beam search and CTC/Att joint decoding, leveraging language models such as kenLM and TransformerLM (e.g., GPT2) for improved performance.
 
 ## News
 
