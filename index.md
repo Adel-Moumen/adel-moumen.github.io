@@ -12,7 +12,7 @@ Note: I will be looking for a <b>PhD position</b> starting in September 2024. Fe
 
 ## Research Interests
 
-My current research interests revolve around improving Deep Neural Networks (DNNs). Specifically, I focus on exploring innovative methods to enhance their efficiency by rethinking their core architecture. I am particularly interested in addressing concrete challenges, such as the gradient exploding problem or deep catastrophic forgetting in continual learning. My research primarily applies these concepts to the field of automatic speech recognition.
+My current research interests revolve around improving Deep Neural Networks. Specifically, I focus on exploring innovative methods to enhance their efficiency by rethinking their core architecture. I am particularly interested in addressing concrete challenges, such as the gradient exploding problem in Recurrent Neural Networks. My research primarily applies these concepts to the field of Automatic Speech Recognition.
 
 ## SpeechBrain
 
