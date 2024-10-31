@@ -4,9 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a 22-year-old research engineer at <a href="https://lia.univ-avignon.fr">Avignon University</a>. I completed my Bachelor's degree 
-in computer science with distinction in an innovation and research-devoted <a href="https://reseau-figure.fr/about-cmi/?lang=en">curriculum</a> and earned a two-year entrepreneurship diploma in 2022. Currently, I am participating in a master's apprenticeship program in computer science with a specialization in AI, where I am professionally contributing to the development of <a href="https://speechbrain.github.io">SpeechBrain</a>, 
-an all-in-one, open-source, PyTorch-based speech processing toolkit with more than 6,600+ stars on GitHub. At SpeechBrain, I lead the efforts of the Automatic Speech Recognition community. In 2019, I started as an autodidact on deep learning and helped frame the largest French AI community.
+I am a 22-year-old PHD student at the University of Cambridge under the supervision of Prof. Phil Woodland. I completed my Bachelor's and Master's degree 
+in computer science and AI with distinction in an innovation and research-devoted <a href="https://reseau-figure.fr/about-cmi/?lang=en">curriculum</a> and earned a two-year entrepreneurship diploma in 2022. I am professionally also contributing to the development of <a href="https://speechbrain.github.io">SpeechBrain</a>, an all-in-one, open-source, PyTorch-based speech processing toolkit with more than 8,800+ stars on GitHub. At SpeechBrain, I lead the core efforts of the toolkit. In 2019, I started as an autodidact on deep learning and helped frame the largest French AI community.
 
 ## Research Interests
 
