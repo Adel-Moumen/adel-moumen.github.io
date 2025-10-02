@@ -1,0 +1,47 @@
+/* Font stacks to mirror Zucman's site exactly */
+html, head, meta, link, title, script, style{
+  font-family:"Times New Roman"; font-size:16px; color:#000; font-style:normal; font-weight:400;
+}
+/* Visible content */
+body{margin:0;background:#fff;color:#000;font-family:Georgia, Times, "Times New Roman", serif;font-size:15px;line-height:1.6}
+div, p, ul, li, em, strong, br{font-family:Georgia, Times, "Times New Roman", serif;font-size:15px;color:#000}
+
+/* Header title uses Arial/Verdana at 35px */
+#site-title{font-family:Arial, Verdana, sans-serif;font-size:35px;font-weight:700;margin:0}
+#site-title a, #site-title span{font-family:Arial, Verdana, sans-serif;font-size:35px;font-weight:700;color:#000;text-decoration:none}
+#site-description{font-family:Georgia, Times, "Times New Roman", serif;font-size:16px;color:#666;margin:2px 0 18px}
+
+/* Link colours: header links black; content links teal-ish */
+a{color:rgb(33,117,155);text-decoration:none}
+a:hover{text-decoration:underline}
+#site-title a{color:#000}
+
+/* Container */
+#body-container{max-width:1000px;margin:0 auto;padding:28px 18px}
+#header{padding:0 0 8px 0}
+
+/* Two-column float layout (22.71% / 3% gap / 74.29%) like Zucman */
+#columns-wrap{clear:left}
+.column{float:left;overflow:hidden}
+#col-left{margin-left:0%;width:22.71%}
+#col-right{margin-left:3%;width:74.29%}
+img.alignleft{display:block;border:1px solid #ddd;height:auto;max-width:100%}
+.muted{color:#555}
+ul{margin:8px 0 18px 18px}
+li{margin:6px 0}
+strong.section{font-weight:700}
+.NEW{color:#af0b69;font-weight:700}
+/* Notice styling */
+.notice-red{color:#c00}
+/* Clear floats at the end */
+.clearfix{clear:left}
+@media (max-width:900px){
+  #col-left,#col-right{float:none;width:100%;margin:0}
+}
+
+
+/* Additional spacing for CV-like sections */
+#col-right p strong.section{display:block;margin-top:16px;margin-bottom:4px}
+#col-left ul{margin:8px 0 18px 18px}
+
+
